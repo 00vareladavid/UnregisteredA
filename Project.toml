@@ -2,3 +2,11 @@ name = "UnregisteredA"
 uuid = "b686e103-ce6e-4868-bd28-4023dc495743"
 authors = ["David Varela <00.varela.david@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+UnregisteredB = "4a15487d-6a03-40fd-be4e-f31ac6f07bdf"
+UnregisteredD = "295405fa-16c4-4eca-be55-1f8fa46a8e43"
+
+[source]
+UnregisteredB = "https://github.com/00vareladavid/UnregisteredB"
+UnregisteredD = "https://github.com/00vareladavid/UnregisteredD"
